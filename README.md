@@ -16,7 +16,7 @@ Fellows contribute to this repo by pursuing a data science project to model exis
 
 If you're interested, definitely apply to the next TRIBE [here](http://innovate.neurolex.co) by October 27th, 2018. You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a previous demo day (TRIBE 2) below to get a better feel for the program. If you have any additional questions, please reach out to Jim Schwoebel @ js@neurolex.co. 
 
-[![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)
+[![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://drive.google.com/file/d/1hO184La1-66DzkAt2L0u6TDbTXXthrNG/view)
 
 ## active collaborators 
 
