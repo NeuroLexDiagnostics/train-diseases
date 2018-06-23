@@ -143,8 +143,8 @@ We have built [a template](https://github.com/NeuroLexDiagnostics/train-diseases
 
 After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). 
 
-    git clone 
-    cd 
+    git clone git@github.com:NeuroLexDiagnostics/train-diseases.git
+    cd train-diseases 
     python3 setup.py
     python3 yscrape.py
 
