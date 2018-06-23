@@ -6,6 +6,8 @@ This repository is for training models related to disease prediction. This summa
 
 You can contribute to our lab by either pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
 
+If this is something you're interested in, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)!
+
 ## what to beat 
 
 ### audio embedding models
