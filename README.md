@@ -4,7 +4,7 @@ This repository is for training models related to disease prediction. This summa
 
 Take a second to watch this video below on why we started our company and why we think this research is impactful. 
 
-[![](https://youtu.be/QRdjBK6Ask0)]
+!(https://www.youtube.com/watch?v=QRdjBK6Ask0)[]
 
 ## how you can contribute
 
