@@ -10,11 +10,15 @@ Take a second to watch this video below on why we started our company and why we
 
 You can contribute to our lab by either pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
 
-If this is something you're interested in, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)!
+If this is something you're interested in, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a few of the previous demo days to get a better feel for the TRIBE projects and how you can engage with us through this program.
+
+[![TRIBE 2 Demo Day]()]()
 
 ## list of available datasets 
 
-Here is a list of all datasets you can currently model in this repo (table below). Some datasets are IRB-restricted and cannot be posted publicly. For these datasets, please contact Reza Hosseini Ghomi (MD/MSE), our Chief Medical Officer, @ reza@neurolex.co for access.
+Here is a list of all datasets you can currently model in this repo (table below). 
+
+We also have access to datasets are IRB-restricted and cannot be posted publicly. If you are interested to access these datasets, please contact Reza Hosseini Ghomi (MD/MSE), our Chief Medical Officer, @ reza@neurolex.co for access.
 
 ## Accuracies to beat 
 
@@ -103,6 +107,11 @@ After you fill out this template, you can quickly download and cut the videos an
 Here are some presentations from past fellows on areas related to disease diagnosis. Congrats to all the fellows who have completed the program! If you'd like to join the next demo day, it's scheduled for October 27th, 2018. Just let us know and we'll send you an invite link. 
 
 ## references
+
+### TRIBE program
+* [TRIBE program FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m)
+* [TRIBE program application link](http://innovate.neurolex.co)
+* [TRIBE 2 demo day](https://drive.google.com/open?id=1hO184La1-66DzkAt2L0u6TDbTXXthrNG)
 
 ### Python libraries 
 * [pafy](https://pythonhosted.org/Pafy/)
