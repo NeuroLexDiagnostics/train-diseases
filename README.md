@@ -34,7 +34,13 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 * Guillermo Cecchi, PhD - Psychosis / Schizophrenia 
 
 ### Emory University
-* Ihab Hajjar, PhD - Alzheimer's disease 
+* Ihab Hajjar, PhD - Alzheimer's disease (ongoing study)
+
+### Mental Health America
+* Theresa Nguyen - Depression (ongoing study)
+
+### Schizophrenia.com 
+* Brian Chiko - Schizophrenia/psychosis (ongoing study)
 
 ### TRIBE 1 Fellows 
 * Ryan Dunn (Georgia Tech) - Sleeping Disorders 
