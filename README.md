@@ -4,7 +4,7 @@ This repository is for training models related to disease prediction. This summa
 
 Take a second to watch this video below on why we started our company and why we think this research is impactful. 
 
-![https://www.youtube.com/watch?v=QRdjBK6Ask0]()
+[![NeuroLex intro video](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/embed/QRdjBK6Ask0 "NeuroLex intro video")
 
 ## how you can contribute
 
