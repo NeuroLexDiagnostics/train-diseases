@@ -2,7 +2,7 @@
 Script: yscrape.py
 Author: Jim Schwoebel
 Github repo: train-diseases 
-Repo link: 
+Repo link: https://github.com/NeuroLexDiagnostics/train-diseases
 License: Apache 2.0 
 
 This script takes in a template excel sheet and downloads videos from youtube. 
