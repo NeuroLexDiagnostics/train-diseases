@@ -205,5 +205,5 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 * [tensorflow](https://www.tensorflow.org/)
 
 ### Research papers (ongoing)
-* [list of relevant research papers]()
+* [list of relevant research papers](https://drive.google.com/open?id=0B2lWd9np0dsnM0ZobjE1WWZmQ0E)
 
