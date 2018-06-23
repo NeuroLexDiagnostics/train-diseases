@@ -18,7 +18,7 @@ You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx
 
 [![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)
 
-## existing collaborators 
+## active collaborators 
 
 ### NeuroLex Team Members
 * Jim Schwoebel (Chief Executive Officer)
