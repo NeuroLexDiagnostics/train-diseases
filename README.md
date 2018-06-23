@@ -135,8 +135,6 @@ We tested a few datasets here to see the performance of the textclassify.py scri
 |adhd|logistic regression|N=16 train/test|62.9% (+/- 4.6%)|
 |dyslexia|gradient boosting|N=19 train/test|62.5% (+/- 12.6%)|
 |glioblastoma|svm|N=10 train/test|59.9% (+/- 20.0%)|
-
-
 |autism|naive-bayes|N=14 train/test|57.1% (n/a)|
 
 ### mixed embeddings
