@@ -150,8 +150,8 @@ After you fill out this template, you can quickly download and cut the videos an
 ### TRIBE program
 * [TRIBE program FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m)
 * [TRIBE program application link](http://innovate.neurolex.co)
-* [TRIBE 2 demo day](https://drive.google.com/open?id=1hO184La1-66DzkAt2L0u6TDbTXXthrNG)
-* [TRIBE 1 demo day](https://drive.google.com/open?id=0B2lWd9np0dsnbktLQThmMHlEdDQ)
+* [TRIBE 2 demo day video](https://drive.google.com/open?id=1hO184La1-66DzkAt2L0u6TDbTXXthrNG)
+* [TRIBE 1 demo day video](https://drive.google.com/open?id=0B2lWd9np0dsnbktLQThmMHlEdDQ)
 
 ### Python libraries 
 * [pafy](https://pythonhosted.org/Pafy/)
