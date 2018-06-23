@@ -1,6 +1,6 @@
 # train-diseases
 
-This repository is for training models related to disease prediction. This summarizes our lab's work in this area and makes it accessible to the public. If you'd like to contribute, please let us know! 
+This repository is for training models related to disease prediction. This summarizes our lab's work in this area and makes it accessible to the public. If you'd like to contribute to this repo, please let us know! 
 
 Take a second to watch this video below on why we started our company and why we think this research is impactful. 
 
