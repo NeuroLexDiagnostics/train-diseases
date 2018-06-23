@@ -1,13 +1,30 @@
-import os 
-import json
-import pafy
-import json
-import time
-import wave
-import ffmpy
+'''
+Script: yscrape.py
+Author: Jim Schwoebel
+Github repo: train-diseases 
+Repo link: 
+License: Apache 2.0 
+
+This script takes in a template excel sheet and downloads videos from youtube. 
+After this, the videos are clipped to the desired ranges as annoted by the end user.
+
+In this way, we can quickly build custom curated datasets around specific 
+diseases based on self-reported video bloggers with various disease conditions.
+
+For example, you could go onto youtube search and type in "depression: my story." 
+There is then a list of videos you can parse through and use the template.xlsx provided
+in the train-diseases repository to annotate these videos for things like age, gender,
+ethnicity, audio quality, etc., as well as start and stop points in the video in a 20 
+second segment. Then you can run this script to help extract all the audio files for modeling. 
+
+Join us in building the largest open-source disease modeling dataset for voice!
+
+- the NeuroLex team
+'''
+
+import os, json, pafy, time, wav, ffmpy, shutil
 import pandas as pd
 import soundfile as sf
-import shutil 
 
 filename=input('what is the file name? \n')
 desktop="/Users/jim/Desktop/"
