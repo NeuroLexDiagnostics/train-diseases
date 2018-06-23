@@ -116,7 +116,7 @@ We tested a few datasets here to see the performance of the audioclassify.py scr
 |dyslexia|logistic regression|N=19 train/test|62.1% (+/- 17.2%)|
 |addiction|sk learn|N=19 train/test|61.4% (+/- 2.1%)|
 
-### text embedding
+### text embedding models
 
 We tested a few datasets here to see the performance of the textclassify.py script. Here are the results:
 
@@ -137,7 +137,7 @@ We tested a few datasets here to see the performance of the textclassify.py scri
 |glioblastoma|svm|N=10 train/test|59.9% (+/- 20.0%)|
 |autism|naive-bayes|N=14 train/test|57.1% (n/a)|
 
-### mixed embeddings
+### mixed embedding models
 
 We tested a few datasets here to see the performance of the mixedclassify.py script (mixed text and audio arrays). Here are the results:
 
