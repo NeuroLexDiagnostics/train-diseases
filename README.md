@@ -6,11 +6,13 @@ Take a second to watch this video below on why we started our company and why we
 
 [![NeuroLex intro video](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/website.png)](https://www.youtube.com/embed/QRdjBK6Ask0 "NeuroLex intro video")
 
-## how to collaborate
+## How to collaborate 
+
+### about the TRIBE Model
 
 We created the TRIBE model to work with outstanding individuals to help accomplish our mission to build a universal voice test to refer patients to specialists faster. Fellows come from many different backgrounds - undergraduates, graduate students, faculty members, physicians, engineers, computer scientists, and other professionals. 
 
-Fellows contribute to this repo by pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
+Fellows contribute to this repo by pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world.
 
 If you're interested to be a part of our lab, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! 
 
@@ -61,9 +63,33 @@ You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx
 
 Here is a list of all datasets you can currently model in this repo (table below). 
 
-We also have access to datasets are IRB-restricted and cannot be posted publicly. If you are interested to access these datasets, please contact Reza Hosseini Ghomi (MD/MSE), our Chief Medical Officer, @ reza@neurolex.co for access.
+## how to engineer new datasets
 
-## Accuracies to beat 
+### youtube data
+
+This repository makes it seamless to build custom voice-based disease datasets using Youtube. We have found that Youtube is a reliable place to get labeled speech data if you know what to search for.
+
+For example, if we were using Parkinson’s disease as an example to find data, you could search something like [“Parkinson’s disease: my story”](https://www.youtube.com/results?search_query=parkinson%27s+disease+my+story). You’ll quickly find many people who have shared their stories of living with Parkinson’s disease. 
+
+To get started, clone this repository:
+
+    git clone git@github.com:NeuroLexDiagnostics/train-diseases.git
+    cd train-diseases 
+    
+Now fill out the spreadsheet (template.xlsx) in the current directory. [This template](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/template.xlsx) (template.xlsx in this directory) allows you to quickly label 20 second segments with labels of voice data along with age (e.g. twenties), gender (e.g. male), accent (e.g. British), audio quality (e.g. good/bad), and location (indoor vs. outdoor). Note that 20 seconds of audio has been the ideal amount of audio to label data from some experimentation, and additional data in the same video does not necessarily lead to more accurate results in data science modeling so you should use that as a target for labels. 
+
+    python3 setup.py
+    python3 yscrape.py
+
+You can watch a quick tutorial on how this process works in the video below.
+
+[![](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/tutorial.png)](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)
+
+### IRB-related studies
+
+We also have options to collect to datasets through drafting an IRB-approved study. If you are interested in doing this, please contact Reza Hosseini Ghomi (MD/MSE), our Chief Medical Officer, @ reza@neurolex.co to see if your project idea is feasible.
+
+## Current models and their performance 
 
 ### audio embedding models
 
@@ -130,27 +156,6 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 |addiction|gaussian-nb|N=19 train/test|63.7% (+/- 13.0%)|
 |dialect|decision-tree|N=21 train/test|59.3% (+/- 18.3%)|
 |dyslexia|sk learn|N=19 train/test|58.9% (+/- 2.9%)|
-
-## how to engineer datasets
-
-This repository makes it seamless to build custom voice-based disease datasets using Youtube. 
-
-We have found that Youtube is a reliable place to get labeled speech data if you know what to search for.
-
-For example, if we were using Parkinson’s disease as an example to find data, you could search something like [“Parkinson’s disease: my story”](https://www.youtube.com/results?search_query=parkinson%27s+disease+my+story). You’ll quickly find many people who have shared their stories of living with Parkinson’s disease. 
-
-We have built [a template](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/template.xlsx) (template.xlsx in this directory) for you to quickly label 20 second segments with labels of voice data along with age (e.g. twenties), gender (e.g. male), accent (e.g. British), audio quality (e.g. good/bad), and location (indoor vs. outdoor). Note that 20 seconds of audio has been the ideal amount of audio to label data from some experimentation, and additional data in the same video does not necessarily lead to more accurate results in data science modeling so you should use that as a target for labels. 
-
-After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). 
-
-    git clone git@github.com:NeuroLexDiagnostics/train-diseases.git
-    cd train-diseases 
-    python3 setup.py
-    python3 yscrape.py
-
-You can watch a quick tutorial on how this process works in the video below.
-
-[![](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/tutorial.png)](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)
 
 ## references
 
