@@ -6,13 +6,15 @@ Take a second to watch this video below on why we started our company and why we
 
 [![NeuroLex intro video](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/website.png)](https://www.youtube.com/embed/QRdjBK6Ask0 "NeuroLex intro video")
 
-## how you can contribute
+## the TRIBE program
 
-You can contribute to our lab by either pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
+If you're interested to be a part of our lab, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! 
 
-If this is something you're interested in, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a few of the previous demo days to get a better feel for the TRIBE projects and how you can engage with us through this program.
+You can contribute as a fellow either by pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
 
-[![TRIBE 2 Demo Day]()]()
+You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a few of the previous demo days to get a better feel for the TRIBE projects and how you can engage with us through this program.
+
+[![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)
 
 ## list of available datasets 
 
