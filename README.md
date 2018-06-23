@@ -27,5 +27,5 @@ This repository is for training models related to disease prediction. This summa
 * [How Language flows when Movements don't: an automated analysis of discourse in Parkinson's disease](https://drive.google.com/open?id=0B2lWd9np0dsnM1lMcHhRclVUZHM)
 
 #### Alzheimer's disease 
-* [Automated speech analysis for the assessment of patients with predemntia and Alzheimer's disease](https://drive.google.com/drive/folders/0B2lWd9np0dsnM0ZobjE1WWZmQ0E)
+* [Automated speech analysis for the assessment of patients with predemntia and Alzheimer's disease](https://drive.google.com/open?id=0B2lWd9np0dsnWDNmVzBacUlvTlU)
 * [Evaluation of linguistic and prosodic features for the detection of Alzheimer's disease in Turkish Conversational Speech](https://drive.google.com/open?id=0B2lWd9np0dsnY2tQUmZWbHQ4M00)
