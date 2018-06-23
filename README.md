@@ -84,7 +84,7 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 |dialect|decision-tree|N=21 train/test|59.3% (+/- 18.3%)|
 |dyslexia|sk learn|N=19 train/test|58.9% (+/- 2.9%)|
 
-## how to engineer data 
+## how to engineer datasets
 
 This repository makes it seamless to build custom voice-based disease datasets using Youtube. 
 
@@ -97,6 +97,10 @@ We have built [a template](https://github.com/NeuroLexDiagnostics/train-diseases
 After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). You can watch a quick tutorial on how this process works in the video below.
 
 [![](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/tutorial.png)](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)
+
+## tribe demo days 
+
+Here are some presentations from past fellows on areas related to disease diagnosis. Congrats to all the fellows who have completed the program! If you'd like to join the next demo day, it's scheduled for October 27th, 2018. Just let us know and we'll send you an invite link. 
 
 ## references
 
