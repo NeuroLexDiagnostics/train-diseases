@@ -172,6 +172,10 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 * [Mental Health America](https://mha.neurolex.ai)
 * [Schizophrenia.com](https://psychlex.neurolex.ai)
 
+### Feature arrays
+* [Audioset](https://github.com/tensorflow/models/tree/master/research/audioset)
+* [GeMaps embedding](https://sail.usc.edu/publications/files/eyben-preprinttaffc-2015.pdf)
+
 ### Python libraries 
 * [pafy](https://pythonhosted.org/Pafy/)
 * [pytube](https://github.com/nficano/pytube)
