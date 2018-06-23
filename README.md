@@ -16,6 +16,41 @@ If you're interested to be a part of our lab, definitely apply to our Innovation
 
 [![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)
 
+## existing collaborators 
+
+### NeuroLex Team Members
+* Jim Schwoebel (Chief Executive Officer)
+* Reza Hosseini Ghomi (Chief Medical Officer, MD/MSE)
+* Drew Morris (Chief Technology Officer)
+* James Fairey (Chief Audio Officer)
+
+### University of Washington Fellows
+* Dave Atkins, PhD
+
+### IBM 
+* Guillermo Cecchi, PhD
+
+### TRIBE 1 Fellows 
+* Ryan Dunn (Georgia Tech) - Sleeping Disorders 
+* Radhika Duvvuri (Georgia Tech) - Depression 
+* Aditya Muralidhar (Georgia Tech) - Anxiety disorders 
+* Peter Tang (Rice University) - Caffeine detection 
+* Yahia Ali (Georgia Tech) - Hardware interfaces for voice data collection 
+* Alice Romanov (Wake Forest University) - Parkinson's disease 
+* Brittany Wheeler (Boston University) - Alzheimer's disease 
+* Shadab Hassan (New York University) - Anxiety disorders 
+
+### TRIBE 2 Fellows 
+* Hannah Gersch (Georgia Tech) - Various 
+* Larry Zhang (Intern, Nvidea) - Bipolar disorder / Feature embeddings 
+* Timothy Wroge (University of Pittsburgh) - Parkinson's disease 
+* Audrey Wagner (University of Pittsburgh) - Glioblastoma 
+* Dylan Pitulski (University of Pittsburgh) - Schizophrenia 
+* Wendy Nguyen (UC Irvine) - Depression
+* Allison Pei (Cornell University) -  Common Colds
+* Alyssa Naritoku (University of Southern California) - Graves Disease 
+* Aditi Mylavarapu (The University of Michigan) - Autism spectrum disorders (ASDs)
+
 ## list of available datasets 
 
 Here is a list of all datasets you can currently model in this repo (table below). 
