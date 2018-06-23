@@ -2,6 +2,10 @@
 
 This repository is for training models related to disease prediction. This summarizes our lab's work in this area and makes it accessible to the public. If you'd like to contribute, please let us know! 
 
+## how you can contribute
+
+You can contribute to our lab by either pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
+
 ## what to beat 
 
 ### audio embedding models
