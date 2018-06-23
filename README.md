@@ -87,6 +87,7 @@ To get started, clone this repository:
 
     git clone git@github.com:NeuroLexDiagnostics/train-diseases.git
     cd train-diseases 
+    open template.xlsx
     
 Now fill out the spreadsheet (template.xlsx) in the current directory. [This template](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/template.xlsx) (template.xlsx in this directory) allows you to quickly label 20 second segments with labels of voice data along with age (e.g. twenties), gender (e.g. male), accent (e.g. British), audio quality (e.g. good/bad), and location (indoor vs. outdoor). Note that you can make a new spreadsheet or expand upon an existing spreadsheet in this repository (in the spreadsheets directory):
 
