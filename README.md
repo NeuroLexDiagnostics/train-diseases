@@ -141,7 +141,14 @@ For example, if we were using Parkinson’s disease as an example to find data, 
 
 We have built [a template](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/template.xlsx) (template.xlsx in this directory) for you to quickly label 20 second segments with labels of voice data along with age (e.g. twenties), gender (e.g. male), accent (e.g. British), audio quality (e.g. good/bad), and location (indoor vs. outdoor). Note that 20 seconds of audio has been the ideal amount of audio to label data from some experimentation, and additional data in the same video does not necessarily lead to more accurate results in data science modeling so you should use that as a target for labels. 
 
-After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). You can watch a quick tutorial on how this process works in the video below.
+After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). 
+
+    git clone 
+    cd 
+    python3 setup.py
+    python3 yscrape.py
+
+You can watch a quick tutorial on how this process works in the video below.
 
 [![](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/tutorial.png)](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)
 
