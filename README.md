@@ -29,6 +29,7 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 
 ### University of Washington
 * Dave Atkins, PhD - Mental Health / various 
+* Dong Si, PhD - Data science lab @ UW focused in mental health
 
 ### IBM 
 * Guillermo Cecchi, PhD - Psychosis / Schizophrenia 
