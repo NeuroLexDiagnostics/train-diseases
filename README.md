@@ -65,7 +65,7 @@ Here is a list of all datasets you can currently model in this repo (table below
 
 This repository makes it seamless to build custom voice-based disease datasets using Youtube. We have found that Youtube is a reliable place to get labeled speech data if you know what to search for.
 
-For example, if we were using Parkinson’s disease as an example to find data, you could search something like [“Parkinson’s disease: my story”](https://www.youtube.com/results?search_query=parkinson%27s+disease+my+story). You’ll quickly find many people who have shared their stories of living with Parkinson’s disease. You can then manually annotate these videos to cut them around voice segments of patients and use this to train machine learning models.
+For example, if we were using Parkinson’s disease as an example to find data, you could search something like [“Parkinson’s disease: my story”](https://www.youtube.com/results?search_query=parkinson%27s+disease+my+story). You’ll quickly find many people who have shared their stories of living with Parkinson’s disease. You can then manually annotate these videos to cut them around voice segments of patients and use this data to train machine learning models without any formal [IRB](https://en.wikipedia.org/wiki/Institutional_review_board).
 
 ### getting started 
 
