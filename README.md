@@ -27,7 +27,7 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 * James Fairey (Chief Audio Officer)
 * Marsal Gavalda PhD (Machine learning advisor)
 
-### University of Washington Fellows
+### University of Washington
 * Dave Atkins, PhD - Mental Health / various 
 
 ### IBM 
