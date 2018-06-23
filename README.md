@@ -29,3 +29,7 @@ This repository is for training models related to disease prediction. This summa
 #### Alzheimer's disease 
 * [Automated speech analysis for the assessment of patients with predemntia and Alzheimer's disease](https://drive.google.com/open?id=0B2lWd9np0dsnWDNmVzBacUlvTlU)
 * [Evaluation of linguistic and prosodic features for the detection of Alzheimer's disease in Turkish Conversational Speech](https://drive.google.com/open?id=0B2lWd9np0dsnY2tQUmZWbHQ4M00)
+
+#### Autism
+
+#### ...
