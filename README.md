@@ -102,7 +102,6 @@ We tested a few datasets here to see the performance of the audioclassify.py scr
 | **Name**       | **Algorithm** | **Training Description** | **Accuracy**          |
 | ------------- |-------------|-------------|-------------|
 |depression|knn|N=12 train/test|88.7% (+/- 9.3%)|
-|gender|hard voting|N=106 train/test|86.8% (+/- 6.1%)|
 |glioblastoma|random forest|N=10 train/test|85.0% (+/- 20.0%)|
 |bipolar|svm|N=19 train/test|81.4% (+/- 13.1%)|
 |als|random forest|N=12 train/test|81.3% (+/- 16.5%)|
@@ -136,7 +135,8 @@ We tested a few datasets here to see the performance of the textclassify.py scri
 |adhd|logistic regression|N=16 train/test|62.9% (+/- 4.6%)|
 |dyslexia|gradient boosting|N=19 train/test|62.5% (+/- 12.6%)|
 |glioblastoma|svm|N=10 train/test|59.9% (+/- 20.0%)|
-|gender|hard voting|N=106 train/test|57.8% (+/- 2.7%)|
+
+
 |autism|naive-bayes|N=14 train/test|57.1% (n/a)|
 
 ### mixed embeddings
@@ -148,7 +148,6 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 |glioblastoma|gradient boosting|N=10 train/test|96.0% (+/- 8.0%)|
 |anxiety|logistic regression|N=9 train/test|90.0% (+/- 20.0)|
 |cold|gradient boosting|N=16 train/test|87.5% (+/- 12.4%)|
-|gender|svm|N=106 train/test|86.3% (+/- 2.8%)|
 |als|svm|N=12 train/test|85.0% (+/- 20.0%)|
 |schizophrenia|logistic regression| N=20 train/test | 84.6% (+/- 15.1%)|
 |depression|svm|N=12 train/test|81.0% (+/- 18.5%)|
