@@ -6,9 +6,9 @@ Take a second to watch this video below on why we started our company and why we
 
 [![NeuroLex intro video](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/website.png)](https://www.youtube.com/embed/QRdjBK6Ask0 "NeuroLex intro video")
 
-## How to collaborate 
+## how to collaborate 
 
-### about the TRIBE Model
+### the TRIBE Model
 
 We created the TRIBE model to work with outstanding individuals to help accomplish our mission to build a universal voice test to refer patients to specialists faster. Fellows come from many different backgrounds - undergraduates, graduate students, faculty members, physicians, engineers, computer scientists, and other professionals. 
 
