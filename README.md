@@ -44,6 +44,9 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 * Brian Chiko - Schizophrenia/psychosis (ongoing study)
 
 ### TRIBE 1 Fellows 
+
+TRIBE 1 ended on a demo day @ September 30th, 2018. Many of these TRIBE members are still active.
+
 * Ryan Dunn (Georgia Tech) - Sleeping Disorders 
 * Radhika Duvvuri (Georgia Tech) - Depression 
 * Aditya Muralidhar (Georgia Tech) - Anxiety disorders 
@@ -54,6 +57,9 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 * Shadab Hassan (New York University) - Anxiety disorders 
 
 ### TRIBE 2 Fellows 
+
+TRIBE 2 ended on a demo day @ April 28th, 2018. Many of these TRIBE members are still active.
+
 * Hannah Gersch (Georgia Tech) - Various 
 * Larry Zhang (Intern, Nvidea) - Bipolar disorder / Feature embeddings 
 * Timothy Wroge (University of Pittsburgh) - Parkinson's disease 
@@ -63,6 +69,18 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 * Allison Pei (Cornell University) -  Common colds
 * Alyssa Naritoku (University of Southern California) - Graves disease 
 * Aditi Mylavarapu (The University of Michigan) - Autism spectrum disorders (ASDs)
+
+### TRIBE 3 Fellows 
+
+TRIBE 3 demo day is schedule for October 27th, 2018.
+
+* Rovena, Alex Casado, Kathleen Williams (Michigan State University), and Janani Srikanth (Georgia Tech) - Depression
+* Justin John and Annie Vu (UT Dallas) - Autism 
+* Katie Cowie (Wake Forest University) and Mark Bray - Opoid Addiction
+* Danica Forestal and Isabelle Oliva - Schizophrenia
+* Maria Daigle (WPI) - Stress
+* Hilary Lynch - Pain detection
+* Santhosh Subramanian (UC Berkeley) and Tanmay Bhatia (Clemson University) - Parkinson's disease 
 
 ## how to engineer new datasets
 
