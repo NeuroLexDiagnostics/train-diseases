@@ -86,7 +86,17 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 
 ## how to engineer data 
 
-Video here describing process.
+This repository makes it seamless to build custom voice-based disease datasets using Youtube. 
+
+We have found that Youtube is a reliable place to get labeled speech data if you know what to search for.
+
+For example, if we were using Parkinson’s disease as an example to find data, you could search something like [“Parkinson’s disease: my story”](https://www.youtube.com/results?search_query=parkinson%27s+disease+my+story). You’ll quickly find many people who have shared their stories of living with Parkinson’s disease. 
+
+We have built [a template](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/template.xlsx) for you to quickly label 20 second segments with labels of voice data along with age (e.g. twenties), gender (e.g. male), accent (e.g. British), audio quality (e.g. good/bad), and location (indoor vs. outdoor). Note that 20 seconds of audio has been the ideal amount of audio to label data from some experimentation, and additional data in the same video does not necessarily lead to more accurate results in data science modeling so you should use that as a target for labels. 
+
+After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). You can watch a quick tutorial on how this process works in the video below.
+
+[![](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)
 
 ## references
 
