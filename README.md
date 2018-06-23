@@ -6,9 +6,9 @@ Take a second to watch this video below on why we started our company and why we
 
 [![NeuroLex intro video](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/website.png)](https://www.youtube.com/embed/QRdjBK6Ask0 "NeuroLex intro video")
 
-## the TRIBE program
+## how to collaborate
 
-If you're interested to be a part of our lab, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! 
+If you're interested to be a part of our lab, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! Through this program, we work with outstanding individuals - undergraduates, graduate students, faculty members, physicians, engineers, computer scientists, and other professionals - to help accomplish our mission to build a universal voice test to refer patients to specialists faster. 
 
 You can contribute as a fellow either by pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
 
