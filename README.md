@@ -8,7 +8,11 @@ You can contribute to our lab by either pursuing a data science project to model
 
 If this is something you're interested in, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)!
 
-## what to beat 
+## list of available datasets 
+
+Here is a list of all datasets you can currently model in this repo (table below). Some datasets are IRB-restricted and cannot be posted publicly. For these datasets, please contact Reza Hosseini Ghomi (MD/MSE), our Chief Medical Officer, @ reza@neurolex.co for access.
+
+## Accuracies to beat 
 
 ### audio embedding models
 
