@@ -20,15 +20,19 @@ If you're interested to be a part of our lab, definitely apply to our Innovation
 
 ### NeuroLex Team Members
 * Jim Schwoebel (Chief Executive Officer)
-* Reza Hosseini Ghomi (Chief Medical Officer, MD/MSE)
+* Reza Hosseini Ghomi, MD/MSE (Chief Medical Officer)
 * Drew Morris (Chief Technology Officer)
 * James Fairey (Chief Audio Officer)
+* Marsal Gavalda PhD (Machine learning advisor)
 
 ### University of Washington Fellows
-* Dave Atkins, PhD
+* Dave Atkins, PhD - Mental Health / various 
 
 ### IBM 
-* Guillermo Cecchi, PhD
+* Guillermo Cecchi, PhD - Psychosis / Schizophrenia 
+
+### Emory University
+* Ihab Hajjar, PhD - Alzheimer's disease 
 
 ### TRIBE 1 Fellows 
 * Ryan Dunn (Georgia Tech) - Sleeping Disorders 
@@ -47,8 +51,8 @@ If you're interested to be a part of our lab, definitely apply to our Innovation
 * Audrey Wagner (University of Pittsburgh) - Glioblastoma 
 * Dylan Pitulski (University of Pittsburgh) - Schizophrenia 
 * Wendy Nguyen (UC Irvine) - Depression
-* Allison Pei (Cornell University) -  Common Colds
-* Alyssa Naritoku (University of Southern California) - Graves Disease 
+* Allison Pei (Cornell University) -  Common colds
+* Alyssa Naritoku (University of Southern California) - Graves disease 
 * Aditi Mylavarapu (The University of Michigan) - Autism spectrum disorders (ASDs)
 
 ## list of available datasets 
@@ -138,10 +142,6 @@ We have built [a template](https://github.com/NeuroLexDiagnostics/train-diseases
 After you fill out this template, you can quickly download and cut the videos and extract the audio for further processing (using the script in this folder - yscrape.py). You can watch a quick tutorial on how this process works in the video below.
 
 [![](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/tutorial.png)](https://drive.google.com/file/d/1KuXq73sRw99cFq4zen3ISiTXGFjIwt87/view)
-
-## tribe demo days 
-
-Here are some presentations from past fellows on areas related to disease diagnosis. Congrats to all the fellows who have completed the program! If you'd like to join the next demo day, it's scheduled for October 27th, 2018. Just let us know and we'll send you an invite link. 
 
 ## references
 
