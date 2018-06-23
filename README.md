@@ -169,6 +169,10 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 * [TRIBE 2 demo day video](https://drive.google.com/open?id=1hO184La1-66DzkAt2L0u6TDbTXXthrNG)
 * [TRIBE 1 demo day video](https://drive.google.com/open?id=0B2lWd9np0dsnbktLQThmMHlEdDQ)
 
+### Ongoing studies
+* [Mental Health America](https://mha.neurolex.ai)
+* [Schizophrenia.com](https://psychlex.neurolex.ai)
+
 ### Python libraries 
 * [pafy](https://pythonhosted.org/Pafy/)
 * [pytube](https://github.com/nficano/pytube)
