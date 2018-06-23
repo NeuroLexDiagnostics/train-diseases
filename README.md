@@ -8,11 +8,11 @@ Take a second to watch this video below on why we started our company and why we
 
 ## how to collaborate
 
-If you're interested to be a part of our lab, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! Through this program, we work with outstanding individuals - undergraduates, graduate students, faculty members, physicians, engineers, computer scientists, and other professionals - to help accomplish our mission to build a universal voice test to refer patients to specialists faster. 
+We created the TRIBE model to work with outstanding individuals to help accomplish our mission to build a universal voice test to refer patients to specialists faster. Fellows come from many different backgrounds - undergraduates, graduate students, faculty members, physicians, engineers, computer scientists, and other professionals. 
 
-You can contribute as a fellow either by pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
+Fellows contribute to this repo by pursuing a data science project to model existing data or doing a research-related project to collect more data for us to analyze. Since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world. 
 
-You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a few of the previous demo days to get a better feel for the TRIBE projects and how you can engage with us through this program.
+If you're interested to be a part of our lab, definitely apply to our Innovation Fellows program [here](http://innovate.neurolex.co)! You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a previous demo day (TRIBE 2) to get a better feel for the program. If you have any additional questions, please reach out to Jim Schwoebel @ js@neurolex.co. 
 
 [![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)
 
