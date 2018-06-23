@@ -7,6 +7,7 @@ License: Apache 2.0
 
 This script takes in a template excel sheet and downloads videos from youtube. 
 After this, the videos are clipped to the desired ranges as annoted by the end user.
+This is all done in the current directory that the script is executed. 
 
 In this way, we can quickly build custom curated datasets around specific 
 diseases based on self-reported video bloggers with various disease conditions.
