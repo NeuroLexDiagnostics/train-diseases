@@ -22,12 +22,12 @@ Join us in building the largest open-source disease modeling dataset for voice!
 - the NeuroLex team
 '''
 
-import os, json, pafy, time, wav, ffmpy, shutil
+import os, json, pafy, time, wav, ffmpy, shutil, getpass
 import pandas as pd
 import soundfile as sf
 
 filename=input('what is the file name? \n')
-desktop="/Users/jim/Desktop/"
+desktop=os.getcwd()+'/'
 os.chdir(desktop)
 foldername=filename[0:-5]
 destfolder=desktop+foldername+'/'
