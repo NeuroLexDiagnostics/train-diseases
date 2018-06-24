@@ -28,7 +28,7 @@ import pandas as pd
 import soundfile as sf
 
 filename=input('what is the file name? \n')
-desktop=os.getcwd()+'/'
+desktop=os.getcwd()+'/spreadsheets/'
 os.chdir(desktop)
 foldername=filename[0:-5]
 destfolder=desktop+foldername+'/'
