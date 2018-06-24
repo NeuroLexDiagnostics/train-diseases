@@ -23,7 +23,7 @@ Join us in building the largest open-source disease modeling dataset for voice!
 - the NeuroLex team
 '''
 
-import os, json, pafy, time, wav, ffmpy, shutil, getpass
+import os, json, pafy, time, wave, ffmpy, shutil, getpass
 import pandas as pd
 import soundfile as sf
 
