@@ -109,7 +109,7 @@ Now fill out the spreadsheet (template.xlsx) in the current directory. [This tem
 * sleep_apnea.xlsx
 * stressed.xlsx
 
-Once you fill out this spreadsheet and save it to the cloned directory folder, type this into the terminal:
+Once you fill out this spreadsheet and save it to the cloned directory's spreadsheets folder, type this into the terminal:
 
     python3 setup.py
     python3 yscrape.py
