@@ -15,7 +15,7 @@ Also, labels each output audio file with date, url, length, clipped points,
 label, age, gender, accent, and environment (if available in excel sheet).
 '''
 
-import os, json, pafy, time, wave, ffmpy, shutil, getpass, taglib, datetime 
+import os, json, pafy, time, wave, ffmpy, shutil, getpass, datetime 
 import pandas as pd
 import soundfile as sf
 
