@@ -1,35 +1,26 @@
 '''
 Script: yscrape.py
 Author: Jim Schwoebel
-Github repo: train-diseases 
-Repo link: https://github.com/NeuroLexDiagnostics/train-diseases
-License: Apache 2.0 
 
-This script takes in a template excel sheet and downloads videos from youtube. 
+This script takes in a template excel sheet and downloads videos from youtube.
+
 After this, the videos are clipped to the desired ranges as annoted by the end user.
+
 This is all done in the current directory that the script is executed. 
 
 In this way, we can quickly build custom curated datasets around specific 
-diseases based on self-reported video bloggers with various disease conditions.
+use cases based on self-reported video bloggers.
 
-For example, you could go onto youtube search and type in "depression: my story." 
-There is then a list of videos you can parse through and use the template.xlsx provided
-in the train-diseases repository to annotate these videos for things like age, gender,
-ethnicity, audio quality, etc., as well as start and stop points in the video in a 20 
-second segment. Then you can run this script to help extract all the audio files for modeling. 
-
-Join us in building the largest open-source disease modeling dataset for voice!
-
-- the NeuroLex team
+Also, labels each output audio file with date, url, length, clipped points, 
+label, age, gender, accent, and environment (if available in excel sheet).
 '''
 
-import os, json, pafy, time, wave, ffmpy, shutil, getpass
+import os, json, pafy, time, wave, ffmpy, shutil, getpass, taglib, datetime 
 import pandas as pd
 import soundfile as sf
 
 filename=input('what is the file name? \n')
 desktop=os.getcwd()+'/spreadsheets/'
-os.chdir(desktop)
 foldername=filename[0:-5]
 destfolder=desktop+foldername+'/'
 try:
@@ -41,12 +32,18 @@ except:
 #move file to destfolder 
 shutil.move(desktop+filename,destfolder+filename)
 
-#load xls sheet
+#load xls sheet (and get labels)
 loadfile=pd.read_excel(filename)
+
 link=loadfile.iloc[:,0]
 length=loadfile.iloc[:,1]
 times=loadfile.iloc[:,2]
 label=loadfile.iloc[:,3]
+age=loadfile.iloc[:,4]
+gender=loadfile.iloc[:,5]
+accent=loadfile.iloc[:,6]
+quality=loadfile.iloc[:,7]
+environment=loadfile.iloc[:,8]
 
 #initialize lists 
 links=list()
@@ -110,12 +107,24 @@ for i in range(len(links)):
         endsec=int(end_times[i])
         endframe=samplerate*endsec
         sf.write('snipped'+file, data[startframe:endframe], samplerate)
+        newfilename='snipped'+file
+        
+        #can write json too 
+        nfile= dict()
+        nfile["Date"] = str(datetime.datetime.now())
+        nfile["URL"] = str(links[i])
+        nfile["Length"] = str(length[i])
+        nfile["Clipped points"] = str(times[i])
+        nfile["Label"] = str(label[i])
+        nfile["Age"] = str(age[i])
+        nfile["Gender"] = str(gender[i])
+        nfile["Accent"] = str(accent[i])
+        nfile["Environment"] = str(environment[i])
+        jsonfile=open(newfilename[0:-4]+'.json','w')
+        json.dump(nfile, jsonfile)
+        jsonfile.close()
+
         os.remove(file)
 
-        #can write json too 
-        
-        
     except:
         print('no urls')
-
-
