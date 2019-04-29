@@ -18,61 +18,6 @@ If you're interested, definitely apply to the next TRIBE [here](http://innovate.
 
 [![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://drive.google.com/file/d/1hO184La1-66DzkAt2L0u6TDbTXXthrNG/view)
 
-## active collaborators 
-
-### NeuroLex Team Members
-* Jim Schwoebel (Chief Executive Officer)
-* Reza Hosseini Ghomi, MD/MSE (Chief Medical Officer)
-* Drew Morris (Chief Technology Officer)
-* James Fairey (Chief Audio Officer)
-* Marsal Gavalda PhD (Machine learning advisor)
-
-### University of Washington
-* Dave Atkins, PhD - Mental Health / various 
-* Dong Si, PhD - Data science lab @ UW focused in mental health
-
-### IBM 
-* Guillermo Cecchi, PhD - Psychosis / Schizophrenia 
-
-### Emory University
-* Ihab Hajjar, PhD - Alzheimer's disease (ongoing study)
-
-### Mental Health America
-* Theresa Nguyen - Depression (ongoing study)
-
-### Schizophrenia.com 
-* Brian Chiko - Schizophrenia/psychosis (ongoing study)
-
-### TRIBE 1 Fellows 
-* Ryan Dunn (Georgia Tech) - Sleeping Disorders 
-* Radhika Duvvuri (Georgia Tech) - Depression 
-* Aditya Muralidhar (Georgia Tech) - Anxiety disorders 
-* Peter Tang (Rice University) - Caffeine detection 
-* Yahia Ali (Georgia Tech) - Hardware interfaces for voice data collection 
-* Alice Romanov (Wake Forest University) - Parkinson's disease 
-* Brittany Wheeler (Boston University) - Alzheimer's disease 
-* Shadab Hassan (New York University) - Anxiety disorders 
-
-### TRIBE 2 Fellows 
-* Hannah Gersch (Georgia Tech) - Various 
-* Larry Zhang (Intern, NVIDIA) - Bipolar disorder / Feature embeddings 
-* Timothy Wroge (University of Pittsburgh) - Parkinson's disease 
-* Audrey Wagner (University of Pittsburgh) - Glioblastoma 
-* Dylan Pitulski (University of Pittsburgh) - Schizophrenia 
-* Wendy Nguyen (UC Irvine) - Depression
-* Allison Pei (Cornell University) -  Common colds
-* Alyssa Naritoku (University of Southern California) - Graves disease 
-* Aditi Mylavarapu (The University of Michigan) - Autism spectrum disorders (ASDs)
-
-### TRIBE 3 Fellows 
-* Rovena, Alex Casado, Kathleen Williams (Michigan State University), and Janani Srikanth (Georgia Tech) - Depression
-* Justin John and Annie Vu (UT Dallas) - Autism 
-* Katie Cowie (Wake Forest University) and Mark Bray - Opoid Addiction
-* Danica Forestal and Isabelle Oliva - Schizophrenia
-* Maria Daigle (WPI) - Stress
-* Hilary Lynch - Pain detection
-* Santhosh Subramanian (UC Berkeley) and Tanmay Bhatia (Clemson University) - Parkinson's disease 
-
 ## how to engineer new datasets
 
 ### why youtube?
