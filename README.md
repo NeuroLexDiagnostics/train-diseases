@@ -14,7 +14,7 @@ We created the TRIBE model to work with outstanding individuals to help accompli
 
 Fellows contribute to this repo by pursuing a data science project to model existing datasets or a research-related project to collect more data around an existing or new use case. Research demos are important for us since many of our datasets have a very small number of samples, we're very focused on curating a larger dataset and have it open-sourced to advance this work into the world.
 
-If you're interested, definitely apply to the next TRIBE [here](http://innovate.neurolex.co) by October 27th, 2018. You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a previous demo day (TRIBE 2) below to get a better feel for the program. If you have any additional questions, please reach out to Jim Schwoebel @ js@neurolex.co. 
+If you're interested, definitely apply to the next TRIBE [here](http://innovate.neurolex.co). You can read [this FAQ](https://drive.google.com/open?id=1BhGxQyvcO1YZKl-Yic0MDx8IZzqNjw6m) and watch a previous demo day below to get a better feel for the program. If you have any additional questions, please reach out to Jim Schwoebel @ js@neurolex.co. 
 
 [![TRIBE 2 Demo Day](https://github.com/NeuroLexDiagnostics/train-diseases/blob/master/data/TRIBE2_demo_day.png)](https://drive.google.com/file/d/1hO184La1-66DzkAt2L0u6TDbTXXthrNG/view)
 
