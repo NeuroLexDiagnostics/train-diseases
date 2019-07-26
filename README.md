@@ -44,6 +44,7 @@ Now fill out the spreadsheet (template.xlsx) in the current directory. [This tem
 * cold.xlsx
 * controls.xlsx
 * depression.xlsx
+* depression_labels.xlsx
 * dyslexia.xlsx
 * glioblastoma.xlsx
 * gravesdisease.xlsx
@@ -146,20 +147,7 @@ We tested a few datasets here to see the performance of the mixedclassify.py scr
 * [Mental Health America](https://mha.neurolex.ai)
 * [Schizophrenia.com](https://psychlex.neurolex.ai)
 
-### Feature arrays
-* [Audioset](https://github.com/tensorflow/models/tree/master/research/audioset)
-* [GeMaps embedding](https://sail.usc.edu/publications/files/eyben-preprinttaffc-2015.pdf)
-
-### Python libraries 
-* [pafy](https://pythonhosted.org/Pafy/)
-* [pytube](https://github.com/nficano/pytube)
-* [youtube-dl](https://github.com/rg3/youtube-dl)
-* [librosa](https://librosa.github.io/librosa/)
-* [nltk](https://www.nltk.org/)
-* [scikit-learn](http://scikit-learn.org/stable/index.html)
-* [keras](https://keras.io/)
-* [tensorflow](https://www.tensorflow.org/)
-
 ### Research papers (ongoing)
 * [list of relevant research papers](https://drive.google.com/open?id=0B2lWd9np0dsnM0ZobjE1WWZmQ0E)
+* [voice computing book](https://neurolex.ai/voicebook)
 
