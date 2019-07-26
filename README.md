@@ -79,8 +79,7 @@ We also have options to collect to datasets through drafting an IRB-approved stu
 * [TRIBE 1 demo day video](https://drive.google.com/open?id=0B2lWd9np0dsnbktLQThmMHlEdDQ)
 
 ### Ongoing studies
-* [Mental Health America](https://mha.neurolex.ai)
-* [Schizophrenia.com](https://psychlex.neurolex.ai)
+* [Voiceome Study](https://voiceome.org)
 
 ### Research papers (ongoing)
 * [list of relevant research papers](https://drive.google.com/open?id=0B2lWd9np0dsnM0ZobjE1WWZmQ0E)
