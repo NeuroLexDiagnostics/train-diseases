@@ -12,18 +12,17 @@ This assumes you have python3 installed on your machine.
 
 import os, platform
 
-if platform.system().lower() in ['darwin', 'linux']:
+def pip3_install(modules):
+  for i in range(len(modules)):
+    os.system('pip3 install %s'%(modules[i]))
+    
+def brew_install(modules):
+  for i in range(len(modules)):
+    os.system('brew install %s'%(modules[i]))
 
-  os.system('pip3 install pafy')
-  os.system('pip3 install wave')
-  os.system('pip3 install ffmpy')
-  os.system('pip3 install pandas')
-  os.system('pip3 install soundfile')
+brew_modules=['ffmpeg','youtube-dl']
+pip3_modules=['pandas','ffmpy','tqdm', 'pandas', 'soundfile']
 
-elif platform.system().lower() == 'windows': 
+brew_install(brew_modules)
+pip3_install(pip3_modules)
 
-  os.system('pip install -m pafy')
-  os.system('pip install -m wave')
-  os.system('pip install -m ffmpy')
-  os.system('pip install -m pandas')
-  os.system('pip install -m soundfile')
