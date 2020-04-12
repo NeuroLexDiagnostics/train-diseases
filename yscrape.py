@@ -16,6 +16,7 @@ label, age, gender, accent, and environment (if available in excel sheet).
 '''
 
 import os, json, time, wave, ffmpy, shutil, getpass, datetime, sys, time
+from tqdm import tqdm
 from optparse import OptionParser
 import pandas as pd
 import soundfile as sf
@@ -73,7 +74,7 @@ except:
 if filename == 'all':
 
     # recursively call this script with proper variables if user wants all data
-    for i in range(len(excel_files)):
+    for i in tqdm(range(len(excel_files))):
         if excel_files[i] != 'all':
             # now iterate through all these 
             os.chdir(curdir)
@@ -138,7 +139,7 @@ if filename == 'all':
                     labels.append(foldername)
 
             files=list()
-            for i in range(len(links)):
+            for i in tqdm(range(len(links)), desc=filename+'_files'):
                 try: 
                     # use YouTube DL to download audio
                     filename=download_audio(links[i])
@@ -264,7 +265,7 @@ else:
             labels.append(foldername)
 
     files=list()
-    for i in range(len(links)):
+    for i in tqdm(range(len(links)), desc=filename):
         try: 
             # use YouTube DL to download audio
             filename=download_audio(links[i])
