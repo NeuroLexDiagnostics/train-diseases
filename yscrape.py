@@ -141,3 +141,5 @@ for i in range(len(links)):
 
     except:
         print('error fetching video')
+
+    time.sleep(5)
